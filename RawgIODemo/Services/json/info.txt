@@ -1,0 +1,10 @@
+
+
+** The json content is fetched when the app launches.
+
+Because API has query restriction, I downloaded it first and used it as offline store in development phase.
+
+The offline content is in the following json document;
+get_games_all.json
+
+
