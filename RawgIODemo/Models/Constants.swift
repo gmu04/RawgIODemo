@@ -9,10 +9,10 @@ import Foundation
 
 struct Constants{
 	
-	/**
-		API key, which is get from https://rawg.io
-	 	In production, I would not provide it here, instead get from settings.
-	 */
+	#error("Enter your public API key here")
+	/*
+	 	Please have your API key; https://rawg.io
+	*/
 	static let key = "use-your-api-key-here"
 	
 	
